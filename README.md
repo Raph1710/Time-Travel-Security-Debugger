@@ -1,4 +1,4 @@
-# 🕒 Time Travel Debugger
+# Time Travel Debugger
 
 The **Time Travel Debugger** is a simulated security-focused debugging environment designed to demonstrate how untrusted code, plugins, and data flows can be traced, analyzed, and “rewound” during execution. It mimics real-world attack scenarios such as malicious plugins, data exfiltration, and tainted variables—making it ideal for learning about secure systems, sandboxing, and runtime inspection.
 
